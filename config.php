@@ -5,13 +5,13 @@ if (!defined('APP_ROOT')) {
 
 // === DATABASE ===
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'wp_6898bf45252005f2');
-define('DB_USER', 'wp-6898bf4525200');
-define('DB_PASS', 'D0qXRZ6z');
-define('DB_CHARSET', 'utf8mb4');
+define('DB_NAME', 'xxxxx');
+define('DB_USER', 'xxx');
+define('DB_PASS', 'xxxxx');
+define('DB_CHARSET', 'xxxxxx');
 
 // === APP AUTH ===
-define('APP_PASSWORD', 'eduardomartinezmarin'); // Contraseña para acceder a la app
+define('APP_PASSWORD', 'contraseña de prueba'); // Contraseña para acceder a la app
 define('APP_SESSION_KEY', 'wpsa_auth');
 
 // === APP INFO ===
